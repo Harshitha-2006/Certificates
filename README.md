@@ -1,2 +1,2 @@
 # Certificates
-All certificates I’ve earned from various courses and challenges, highlighting my skills.
+My Python certification from Hackerrank, demonstrating my proficiency in Python programming and related concepts
